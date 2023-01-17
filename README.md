@@ -9,7 +9,7 @@ Check out the repositories I made with others in these following organizations!
 <li>OHSEA: https://github.com/ohseagg</li>
 <li>DeltaHacks: https://github.com/DeltaHacks-WebOfLife</li>
 <li>Hack The North: https://github.com/HTN-heAR</li>
-<li>PethsCS: https://link-url-here.org</li>
+<li>PethsCS: https://github.com/petcsclub</li>
 
 <!--
 **kennyzhao-code/kennyzhao-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
