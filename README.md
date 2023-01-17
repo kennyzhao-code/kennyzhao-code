@@ -5,11 +5,11 @@ While my repository may look empty, that is because I spend most of time creatin
 Check out the repositories I made with others in these following organizations!
 
 
-[Marketyze:](https://github.com/Marketyze)
-[OHSEA:](https://github.com/ohseagg)
-[DeltaHacks](https://github.com/DeltaHacks-WebOfLife)
-[Hack The North](https://github.com/HTN-heAR)
-[PethsCS](https://link-url-here.org)
+<li>[Marketyze](https://github.com/Marketyze)</li>
+<li>[OHSEA](https://github.com/ohseagg)</li>
+<li>[DeltaHacks](https://github.com/DeltaHacks-WebOfLife)</li>
+<li>[Hack The North](https://github.com/HTN-heAR)</li>
+<li>[PethsCS](https://link-url-here.org)</li>
 
 <!--
 **kennyzhao-code/kennyzhao-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
