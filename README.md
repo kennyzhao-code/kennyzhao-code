@@ -9,6 +9,7 @@ Check out the repositories I made with others in these following organizations!
 <li>OHSEA: https://github.com/ohseagg</li>
 <li>DeltaHacks: https://github.com/DeltaHacks-WebOfLife</li>
 <li>Hack The North: https://github.com/HTN-heAR</li>
+<li>UoftTHacks: https://github.com/UofTHacks-HealthExplore</li>
 <li>PethsCS: https://github.com/petcsclub</li>
 
 <!--
