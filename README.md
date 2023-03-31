@@ -12,6 +12,7 @@ Check out the repositories I made with others in these following organizations!
 <li>UoftTHacks: https://github.com/UofTHacks-HealthExplore</li>
 <li>PethsCS: https://github.com/petcsclub</li>
 
+
 You can also check out my personal website! https://kennyzhao.dev/ 
 Currently going through a rework!
 
