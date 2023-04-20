@@ -18,6 +18,11 @@ Check out the repositories I made with others in these following organizations!
 ### You can also check out my personal website! https://kennyzhao.dev/ 
 Currently going through a rework!
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:REALLY!?#4206)
+
+
+
+
 <!--
 **kennyzhao-code/kennyzhao-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
