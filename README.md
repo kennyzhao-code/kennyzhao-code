@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleeping%20Face.png" alt="Sleeping Face" width="25" height="25" />
 
-My name is Kenny Zhao and I am currently a first year McMaster Student studying Computer Science.
+My name is Kenny Zhao and I am currently a first year McMaster student studying Computer Science. <img src="https://upload.wikimedia.org/wikipedia/en/e/e3/Macmarauders.png" alt="Sleeping Face" width="25" height="25" />
 
 While my repository may look empty, that is because I spend most of time creating group projects in different organizations!
 
@@ -16,7 +16,6 @@ Check out the repositories I made with others in these following organizations!
 
 
 ### You can also check out my personal website! https://kennyzhao.dev/ 
-Currently going through a rework!
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/278684602107953152)](https://discord.com/users/278684602107953152)
 
