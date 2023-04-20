@@ -18,6 +18,7 @@ Check out the repositories I made with others in these following organizations!
 ### You can also check out my personal website! https://kennyzhao.dev/ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading%20Face.png" alt="Pleading Face" width="25" height="25" />
 
 Add me on discord too! 
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/278684602107953152)](https://discord.com/users/278684602107953152)
 
 
