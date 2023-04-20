@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleeping%20Face.png" alt="Sleeping Face" width="25" height="25" />
 
-My name is Kenny Zhao and I am currently a first year McMaster student studying Computer Science. <img src="https://upload.wikimedia.org/wikipedia/en/e/e3/Macmarauders.png" alt="Sleeping Face" width="25" height="25" />
+My name is Kenny Zhao and I am currently a first year McMaster student studying Computer Science. <img src="https://upload.wikimedia.org/wikipedia/en/e/e3/Macmarauders.png" alt="Sleeping Face" width="50" height="50" />
 
 While my repository may look empty, that is because I spend most of time creating group projects in different organizations!
 
