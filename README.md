@@ -18,11 +18,11 @@ Check out the repositories I made with others in these following organizations!
 ### You can also check out my personal website! https://kennyzhao.dev/ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading%20Face.png" alt="Pleading Face" width="25" height="25" />
 
 
-# Here are some of my skills!
+# Here are some of my skills! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
 
 
 
-# Add me on discord too! 
+# Add me on discord too! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cold%20Face.png" alt="Cold Face" width="25" height="25" />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/278684602107953152)](https://discord.com/users/278684602107953152)
 
