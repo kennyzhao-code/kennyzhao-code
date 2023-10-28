@@ -2,9 +2,9 @@
 
 My name is Kenny Zhao and I am currently a second year McMaster student studying Computer Science. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
-While my repository may look empty, that is because I spend most of time creating group projects in different organizations! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Hand%20Over%20Mouth.png" alt="Face with Hand Over Mouth" width="25" height="25" />
+While my repository may look empty, that is because I spend most of time creating group projects in different hackathons/organizations! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Hand%20Over%20Mouth.png" alt="Face with Hand Over Mouth" width="25" height="25" />
 
-Check out the repositories I made with others in these following organizations!
+Check out the repositories I made with others in these following hackathons/organizations!
 
 
 <li>Marketyze: https://github.com/Marketyze <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Screaming%20in%20Fear.png" alt="Face Screaming in Fear" width="25" height="25" /></li> 
