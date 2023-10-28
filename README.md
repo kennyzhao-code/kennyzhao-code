@@ -7,7 +7,7 @@ While my repository may look empty, that is because I spend most of time creatin
 Check out the repositories I made with others in these following hackathons/organizations!
 
 
-<li>Marketyze: https://github.com/Marketyze <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Screaming%20in%20Fear.png" alt="Face Screaming in Fear" width="25" height="25" /></li> 
+<li>MIST: https://github.com/McMasterNEUDOSE <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /></li> 
 <li>OHSEA: https://github.com/ohseagg <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tongue.png" alt="Face with Tongue" width="25" height="25" /></li>
 <li>DeltaHacks: https://github.com/DeltaHacks-WebOfLife <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grimacing%20Face.png" alt="Grimacing Face" width="25" height="25" /></li>
 <li>Hack The North: https://github.com/HTN-heAR <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="25" height="25" /></li>
