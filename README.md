@@ -11,7 +11,7 @@ Check out the repositories I made with others in these following hackathons/orga
 <li>OHSEA: https://github.com/ohseagg <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="25" height="25" /></li>
 <li>DeltaHacks IX: https://github.com/DeltaHacks-WebOfLife <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grimacing%20Face.png" alt="Grimacing Face" width="25" height="25" /></li>
 <li>Hack The North 2022: https://github.com/HTN-heAR <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="25" height="25" /></li>
-<li>UoftTHacks X: https://github.com/UofTHacks-HealthExplore <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /></li>
+<li>UoFTTHacks X: https://github.com/UofTHacks-HealthExplore <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /></li>
 <li>PethsCS: https://github.com/petcsclub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
 
 
