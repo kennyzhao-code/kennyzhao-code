@@ -8,7 +8,7 @@ Check out the projects I made with others in these following repositories from h
 
 
 <li>Preset - Pitch REsolving Spectroscopy for Electron Transport (MIST): https://github.com/McMasterNEUDOSE <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /></li> 
-<li>Nos Album - Navigating Memories: A Spatial Journey Through Your Photo Story (UofTHacks XI): https://github.com/UofTHacks-XI <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Without%20Mouth.png alt="Joystick" width="25" height="25" /></li>
+<li>Nos Album - Navigating Memories: A Spatial Journey Through Your Photo Story (UofTHacks XI): https://github.com/UofTHacks-XI <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Without%20Mouth.png" alt="Joystick" width="25" height="25" /> </li>
 <li>UofTHacks X: https://github.com/UofTHacks-HealthExplore <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /></li>
 <li>DeltaHacks X: https://github.com/deltahacks-tai <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy%20Face.png" alt="Joystick" width="25" height="25" /></li>
 <li>DeltaHacks IX: https://github.com/DeltaHacks-WebOfLife <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grimacing%20Face.png" alt="Grimacing Face" width="25" height="25" /></li>
