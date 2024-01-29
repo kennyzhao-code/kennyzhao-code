@@ -4,7 +4,7 @@ My name is Kenny Zhao and I am currently a second year McMaster student studying
 
 While my repository may look empty, that is because I spend most of time creating group projects in different hackathons/organizations! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Hand%20Over%20Mouth.png" alt="Face with Hand Over Mouth" width="25" height="25" />
 
-Check out the repositories I made with others in these following hackathons/organizations!
+Check out the projects I made with others in these following repositories from hackathons/organizations!
 
 
 <li>MIST: https://github.com/McMasterNEUDOSE <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /></li> 
