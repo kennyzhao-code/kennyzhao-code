@@ -8,7 +8,7 @@ Check out the projects I made with others in these following repositories from h
 
 <li>Nos Album - Navigating Memories: A Spatial Journey Through Your Photo Story (https://github.com/UofTHacks-XI)</li>
 <li>a conversation... - AI-Powered Simulation for Mental Health and Inner Peace (https://github.com/UofTHacks-HealthExplore) </li>
-<li>HealthChain - Revolutionizing the Future of Digital Healthcare with Blockchain (https://github.com/DeltaHacks-WebOfLife) </li>
+<li>HealthChain - Revolutionizing the Future of Digital Healthcare with Blockchain. Winner of Deltahacks IX! (https://github.com/DeltaHacks-WebOfLife) </li>
 <li>heAR - Augmented Reality and NLP for Enhanced Communication (https://github.com/HTN-heAR) </li>
 
 ### You can also check out my personal website! https://kennyzhao.dev/ 
