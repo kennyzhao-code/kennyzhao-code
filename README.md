@@ -7,13 +7,13 @@ While my repository may look empty, that is because I spend most of time creatin
 Check out the projects I made with others in these following repositories from hackathons/organizations!
 
 
-<li>PRESET - Pitch REsolving Spectroscopy for Electron Transport (https://github.com/McMasterNEUDOSE) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /></li> 
-<li>Nos Album - Navigating Memories: A Spatial Journey Through Your Photo Story (https://github.com/UofTHacks-XI) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Without%20Mouth.png" alt="Joystick" width="25" height="25" /> </li>
-<li>a conversation... - AI-Powered Simulation for Mental Health and Inner Peace (https://github.com/UofTHacks-HealthExplore) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /></li>
-<li>HealthChain - Revolutionizing the Future of Digital Healthcare with Blockchain (https://github.com/DeltaHacks-WebOfLife) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grimacing%20Face.png" alt="Grimacing Face" width="25" height="25" /></li>
-<li>heAR - Augmented Reality and NLP for Enhanced Communication (https://github.com/HTN-heAR) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="25" height="25" /></li>
+<li>PRESET - Pitch REsolving Spectroscopy for Electron Transport (https://github.com/McMasterNEUDOSE) </li> 
+<li>Nos Album - Navigating Memories: A Spatial Journey Through Your Photo Story (https://github.com/UofTHacks-XI)</li>
+<li>a conversation... - AI-Powered Simulation for Mental Health and Inner Peace (https://github.com/UofTHacks-HealthExplore) </li>
+<li>HealthChain - Revolutionizing the Future of Digital Healthcare with Blockchain (https://github.com/DeltaHacks-WebOfLife) </li>
+<li>heAR - Augmented Reality and NLP for Enhanced Communication (https://github.com/HTN-heAR) </li>
 
-### You can also check out my personal website! https://kennyzhao.dev/ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading%20Face.png" alt="Pleading Face" width="25" height="25" />
+### You can also check out my personal website! https://kennyzhao.dev/ 
 
 
 # Here are some of my skills! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
