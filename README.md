@@ -6,10 +6,10 @@ While my repository may look lackluster, that is because I spend most of time cr
 
 Check out the projects I made with others in these following repositories from hackathons!
 
-<li>LavaLock - Security Powered by Real-World Chaos - UofTHacks XII (https://github.com/anthonyhana04/Delta-Hacks-2026)</li>
+<li>LavaLock - Security Powered by Real-World Chaos - <b>Winner at Deltahacks XII</b> (https://github.com/anthonyhana04/Delta-Hacks-2026)</li>
 <li>Nos Album - Navigating Memories: A Spatial Journey Through Your Photo Story - UofTHacks XI (https://github.com/UofTHacks-XI)</li>
 <li>a conversation... - AI-Powered Simulation for Mental Health and Inner Peace - UofTHacks X (https://github.com/UofTHacks-HealthExplore) </li>
-<li>HealthChain - Revolutionizing the Future of Digital Healthcare with Blockchain - <b>Winner of Deltahacks IX</b> (https://github.com/DeltaHacks-WebOfLife) </li>
+<li>HealthChain - Revolutionizing the Future of Digital Healthcare with Blockchain - <b>Winner at Deltahacks IX</b> (https://github.com/DeltaHacks-WebOfLife) </li>
 <li>heAR - Augmented Reality and NLP for Enhanced Communication - Hack The North 2022 (https://github.com/HTN-heAR) </li>
 
 ### You can also check out my personal website! https://kennyzhao.dev/ 
