@@ -6,6 +6,7 @@ While my repository may look lackluster, that is because I spend most of time cr
 
 Check out the projects I made with others in these following repositories from hackathons!
 
+<li>TeX-it - Agentic IDE for the Technical Writer - Hack Days in the 6ix 2026 (https://github.com/anthonyhana04/TeX-it)</li>
 <li>LavaLock - Security Powered by Real-World Chaos - <b>Winner at Deltahacks XII</b> (https://github.com/anthonyhana04/Delta-Hacks-2026)</li>
 <li>Nos Album - Navigating Memories: A Spatial Journey Through Your Photo Story - UofTHacks XI (https://github.com/UofTHacks-XI)</li>
 <li>a conversation... - AI-Powered Simulation for Mental Health and Inner Peace - UofTHacks X (https://github.com/UofTHacks-HealthExplore) </li>
