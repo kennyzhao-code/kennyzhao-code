@@ -15,9 +15,6 @@ Check out the projects I made with others in these following repositories from h
 
 ### You can also check out my personal website! https://kennyzhao.dev/ 
 
-
-# Here are some of my skills! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
-
 # Add me on discord too! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cold%20Face.png" alt="Cold Face" width="25" height="25" />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/278684602107953152)](https://discord.com/users/278684602107953152)
