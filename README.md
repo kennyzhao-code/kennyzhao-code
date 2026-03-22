@@ -12,7 +12,7 @@ Hackathon Projects:
 <li>HealthChain - Revolutionizing the Future of Digital Healthcare with Blockchain - <b>Winner at Deltahacks IX</b> (https://github.com/DeltaHacks-WebOfLife) </li>
 <li>heAR - Augmented Reality and NLP for Enhanced Communication - Hack The North 2022 (https://github.com/HTN-heAR) </li>
 
-\n
+<br/>
 Personal Projects:
 
 <li>Celestial Classifier - Exoplanet Habitability Classifier - ML Neural Network Classfier (https://github.com/kennyzhao-code/Celestial-Classifier) </li>
