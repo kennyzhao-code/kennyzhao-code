@@ -4,8 +4,6 @@ My name is Kenny Zhao and I am currently a third year McMaster student studying 
 
 Below are my top projects, personal and hackathons! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Hand%20Over%20Mouth.png" alt="Face with Hand Over Mouth" width="25" height="25" />
 
-Check out the projects I made with others in these following repositories from hackathons!
-
 <li>TeX-it - Agentic IDE for the Technical Writer - Hack Days in the 6ix 2026 (https://github.com/anthonyhana04/TeX-it)</li>
 <li>LavaLock - Security Powered by Real-World Chaos - <b>Winner at Deltahacks XII</b> (https://github.com/anthonyhana04/Delta-Hacks-2026)</li>
 <li>Nos Album - Navigating Memories: A Spatial Journey Through Your Photo Story - UofTHacks XI (https://github.com/UofTHacks-XI)</li>
