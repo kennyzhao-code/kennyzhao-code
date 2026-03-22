@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleeping%20Face.png" alt="Sleeping Face" width="25" height="25" />
 
-My name is Kenny Zhao and I am currently a third year McMaster student studying Computer Science. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+My name is Kenny Zhao and I am currently a third year McMaster student studying Computer Science.
 
 Hackathon Projects:
 
