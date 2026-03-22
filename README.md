@@ -17,7 +17,7 @@ My name is Kenny Zhao and I am a computer science student at McMaster Unversity 
 <li>Celestial Classifier - Exoplanet Habitability Classifier - ML Neural Network Classfier (https://github.com/kennyzhao-code/Celestial-Classifier) </li>
 <li>Personal Website - Learn more about me! (https://github.com/kennyzhao-code/PersonalWebsite) </li>
 
-# Add me on discord too! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cold%20Face.png" alt="Cold Face" width="25" height="25" />
+## Add me on discord too! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cold%20Face.png" alt="Cold Face" width="25" height="25" />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/278684602107953152)](https://discord.com/users/278684602107953152)
 
