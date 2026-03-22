@@ -2,8 +2,9 @@
 
 My name is Kenny Zhao and I am currently a third year McMaster student studying Computer Science. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
-Below are my top projects, personal and hackathons! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Hand%20Over%20Mouth.png" alt="Face with Hand Over Mouth" width="25" height="25" />
+Hackathon Projects:
 
+<li>Ocio - Skip the search. Start the trip - MacHacks 2026 (https://github.com/anthonyhana04/MacHacks)</li>
 <li>TeX-it - Agentic IDE for the Technical Writer - Hack Days in the 6ix 2026 (https://github.com/anthonyhana04/TeX-it)</li>
 <li>LavaLock - Security Powered by Real-World Chaos - <b>Winner at Deltahacks XII</b> (https://github.com/anthonyhana04/Delta-Hacks-2026)</li>
 <li>Nos Album - Navigating Memories: A Spatial Journey Through Your Photo Story - UofTHacks XI (https://github.com/UofTHacks-XI)</li>
@@ -11,7 +12,13 @@ Below are my top projects, personal and hackathons! <img src="https://raw.github
 <li>HealthChain - Revolutionizing the Future of Digital Healthcare with Blockchain - <b>Winner at Deltahacks IX</b> (https://github.com/DeltaHacks-WebOfLife) </li>
 <li>heAR - Augmented Reality and NLP for Enhanced Communication - Hack The North 2022 (https://github.com/HTN-heAR) </li>
 
-### You can also check out my personal website! https://kennyzhao.dev/ 
+Personal Projects:
+
+<li>Celestial Classifier - Exoplanet Habitability Classifier - ML Neural Network Classfier (https://github.com/kennyzhao-code/Celestial-Classifier) </li>
+<li>Personal Website - Learn more about me! (https://github.com/kennyzhao-code/PersonalWebsite) </li>
+
+
+### Personal Website: https://kennyzhao.dev/ 
 
 # Add me on discord too! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cold%20Face.png" alt="Cold Face" width="25" height="25" />
 
