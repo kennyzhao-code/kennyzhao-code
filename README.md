@@ -2,7 +2,7 @@
 
 My name is Kenny Zhao and I am a computer science student at McMaster Unversity - https://kennyzhao.dev/
 
-Hackathon Projects:
+## Hackathon Projects:
 
 <li>Ocio - Skip the search. Start the trip - MacHacks 2026 (https://github.com/anthonyhana04/MacHacks)</li>
 <li>TeX-it - Agentic IDE for the Technical Writer - Hack Days in the 6ix 2026 (https://github.com/anthonyhana04/TeX-it)</li>
@@ -12,9 +12,8 @@ Hackathon Projects:
 <li>HealthChain - Revolutionizing the Future of Digital Healthcare with Blockchain - <b>Winner at Deltahacks IX</b> (https://github.com/DeltaHacks-WebOfLife) </li>
 <li>heAR - Augmented Reality and NLP for Enhanced Communication - Hack The North 2022 (https://github.com/HTN-heAR) </li>
 
-<br/>
-Personal Projects:
-<br/>
+## Personal Projects:
+
 <li>Celestial Classifier - Exoplanet Habitability Classifier - ML Neural Network Classfier (https://github.com/kennyzhao-code/Celestial-Classifier) </li>
 <li>Personal Website - Learn more about me! (https://github.com/kennyzhao-code/PersonalWebsite) </li>
 
