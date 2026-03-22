@@ -14,12 +14,11 @@ Hackathon Projects:
 
 <br/>
 Personal Projects:
-
+<br/>
 <li>Celestial Classifier - Exoplanet Habitability Classifier - ML Neural Network Classfier (https://github.com/kennyzhao-code/Celestial-Classifier) </li>
 <li>Personal Website - Learn more about me! (https://github.com/kennyzhao-code/PersonalWebsite) </li>
 
-
-### Personal Website: https://kennyzhao.dev/ 
+### Personal Website: https://kennyzhao.dev/
 
 # Add me on discord too! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cold%20Face.png" alt="Cold Face" width="25" height="25" />
 
