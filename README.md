@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleeping%20Face.png" alt="Sleeping Face" width="25" height="25" />
+# I'm Kenny! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleeping%20Face.png" alt="Sleeping Face" width="25" height="25" />
 
 https://kennyzhao.dev/ - https://github.com/kennyzhao-code/PersonalWebsite
 
