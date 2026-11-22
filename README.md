@@ -2,7 +2,7 @@
 
 https://kennyzhao.dev/ - https://github.com/kennyzhao-code/PersonalWebsite
 
-## [<img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" />](https://devpost.com/kennyzhao-code?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+## Hackathon Projects [<img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" />](https://devpost.com/kennyzhao-code?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 <li>Ocio - Skip the search. Start the trip - MacHacks 2026 (https://github.com/kennyzhao-code/ocio)</li>
 <li>TeX-it - Agentic IDE for the Technical Writer - Hack Days in the 6ix 2026 (https://github.com/kennyzhao-code/TeX-it)</li>
